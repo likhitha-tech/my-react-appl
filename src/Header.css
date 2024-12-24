@@ -1,0 +1,16 @@
+.a
+{
+color:red;
+background-color: aqua;
+font-size: 20px;
+font-family: 'Times New Roman', Times, serif;
+border: 5px dotted yellow;
+}
+.b
+{
+    color:green;
+    background-color: rgb(255, 140, 0);
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 5px dashed yellow; 
+}
